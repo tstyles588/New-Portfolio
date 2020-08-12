@@ -1,5 +1,19 @@
-h3, h3 {
-    font-size: 1.75rem;
+
+body {
+    background-color: darkblue;
+}
+
+p   {
+    color: darkblue;
+    background-color: gold;
+}
+
+ul  {
     background-color: gold;
     font-family: cursive;
-    
+}
+
+h3  {
+    font-family: cursive;
+    color: gold;
+}
